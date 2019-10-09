@@ -1,7 +1,7 @@
 # ReactDemo5
 React native网格列表
 ## 先看效果图👇
-![gridList.gif](https://upload-images.jianshu.io/upload_images/13480509-a0bbad07ef2aaa9a.gif?imageMogr2/auto-orient/strip)
+![gridList.gif](https://github.com/LuffyHope/ReactDemo5/blob/master/gridList.gif)
 ## 理解
 > 1.react native没有网格列表的控件，所以我们采用的是最外层为```ScrollView```</br>
 > 2.每两个横向的子条目共用一个父```View```。</br>
